@@ -1,0 +1,22 @@
+{
+  "name": "CYNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of CYNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenyong/CYNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenyong": "chenyong@qizuang.com"
+  },
+  "source": {
+    "git": "https://github.com/chenyong/CYNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "CYNetworking/Classes/**/*"
+}
